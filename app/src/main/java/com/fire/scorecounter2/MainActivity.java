@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity
             public void onClick(View view) {
                 Challenge tempChallenge = new Challenge("bramch10@gmail,com", "Some Challenge", System.currentTimeMillis());
                 FirebaseDatabase.getInstance().getReference(Constants.SCORES_KEY)
+                        .push()
                         .setValue(tempChallenge);
             }
         });
