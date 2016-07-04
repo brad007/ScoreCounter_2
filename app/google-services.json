@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "977006803473",
+    "firebase_url": "https://score-counter-2.firebaseio.com",
+    "project_id": "score-counter-2",
+    "storage_bucket": "score-counter-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977006803473:android:db897a2fa5ce9275",
+        "android_client_info": {
+          "package_name": "com.fire.scorecounter2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977006803473-j09ed8mrftsibq20fgpgncjuiglfitg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fire.scorecounter2",
+            "certificate_hash": "DAAD26F7ACDA0193BBCC3D481DE188B2DC27E549"
+          }
+        },
+        {
+          "client_id": "977006803473-v1s7c28aiiaqrr3agapujnef25b1931u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGBCBCd-KoNxc0pEnNEsm9HaPzGQk1yzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977006803473-v1s7c28aiiaqrr3agapujnef25b1931u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
